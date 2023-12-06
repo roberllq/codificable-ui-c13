@@ -1,0 +1,25 @@
+.header {
+  padding: 24px 32px;
+  margin-inline: auto;
+}
+
+.header > * {
+  display: inline-block;
+}
+
+.header__logo {
+  margin-right: 64px;
+}
+
+.header__logo a {
+  color: var(--primary);
+  font-family: var(--display);
+  font-size: var(--font-3xl);
+  font-weight: 500;
+  line-height: var(--leading-7); /* 100% */
+  text-decoration: none;
+}
+
+.header__logo:hover a {
+  color: var(--primary-hover);
+}
