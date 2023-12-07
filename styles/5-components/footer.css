@@ -1,0 +1,17 @@
+/* Footer */
+
+.footer {
+    padding-block: 2rem;
+    text-align: center;
+    border-top: 1px solid #d4d4d8;
+  }
+  
+  .footer .social-links {
+    margin: 0 auto;
+    margin-bottom: 2rem;
+  }
+  
+  .footer__copy {
+    font-size: 0.75rem;
+    line-height: 1.25rem; /* 166.667% */
+  }

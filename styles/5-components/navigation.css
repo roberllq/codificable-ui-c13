@@ -1,0 +1,30 @@
+/* Navigation */
+
+.navigation a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .navigation ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  
+    color: var(--neutral-500);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1rem; /* 100% */
+  }
+  
+  .navigation li {
+    display: inline-block;
+    margin-right: 0.5rem;
+  }
+  
+  .navigation a {
+    padding: 0.5rem;
+  }
+  
+  .navigation a:hover {
+    color: var(--neutral-600);
+  }

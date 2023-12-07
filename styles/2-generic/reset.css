@@ -14,6 +14,7 @@
 /* Elimina los márgenes por defecto de todos los elementos. */
 * {
   margin: 0;
+  text-decoration: none;
 }
 
 /* Establece la altura de línea del body y mejora la suavidad de las fuentes. */

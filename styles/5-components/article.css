@@ -1,0 +1,14 @@
+/* Article section */
+
+.article {
+    max-width: 42px;
+    margin-inline: auto;
+  }
+  
+  .article__header {
+    margin-bottom: 1rem;
+  }
+  
+  .article__header .article-metadata {
+    margin-bottom: 0.5rem;
+  }
